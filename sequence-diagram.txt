@@ -1,4 +1,10 @@
 @startuml
+<style>
+  root {
+    FontName system-ui
+  }
+</style>
+
 Alice -> Bob: Authentication request
 Bob --> Alice: Authentication response
 
