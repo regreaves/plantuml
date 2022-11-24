@@ -1,9 +1,6 @@
 @startjson
-<style file = 'https://raw.githubusercontent.com/regreaves/plantuml/main/style.skin'></style>
+!theme plain from https://raw.githubusercontent.com/regreaves/plantuml/main/puml-theme-plain.puml
 
-#highlight "lastName"
-#highlight "address" / "city"
-#highlight "phoneNumbers" / "0" / "number"
 {
   "firstName": "John",
   "lastName": "Smith",
