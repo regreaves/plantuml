@@ -1,5 +1,5 @@
 @startjson
-<style file = https://raw.githubusercontent.com/regreaves/plantuml/main/style.css>
+<style file = https://raw.githubusercontent.com/regreaves/plantuml/main/style.skin>
 
 #highlight "lastName"
 #highlight "address" / "city"
