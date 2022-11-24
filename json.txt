@@ -1,4 +1,6 @@
 @startjson
+<style file = https://raw.githubusercontent.com/regreaves/plantuml/main/style.css>
+
 #highlight "lastName"
 #highlight "address" / "city"
 #highlight "phoneNumbers" / "0" / "number"
