@@ -5,6 +5,7 @@
     FontName "system-ui"
     FontSize 12
   }
+</style>
 
 {
   "name": "rgreaves@example.com",
