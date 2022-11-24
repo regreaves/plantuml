@@ -1,5 +1,5 @@
 @startjson
-!theme plain from https://raw.githubusercontent.com/regreaves/plantuml/main/puml-theme-plain.puml
+!theme plain from https://raw.githubusercontent.com/regreaves/plantuml/main
 
 {
   "firstName": "John",
