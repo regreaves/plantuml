@@ -1,5 +1,10 @@
 @startjson
-!include https://raw.githubusercontent.com/regreaves/plantuml/main/themes/plain/puml-theme-plain.puml
+
+<style>
+  root {
+    FontName "system-ui"
+  }
+
 {
   "firstName": "John",
   "lastName": "Smith",
